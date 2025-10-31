@@ -1,0 +1,299 @@
+{
+    "default_width": 130,
+    "default_height": 130,
+    "space_h": 8,
+    "space_v": 6,
+    "flags": 0,
+    "overlay_width": 712,
+    "overlay_height": 538,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "keyboard-ESC",
+            "z_level": "0",
+            "mapping": [
+                0,
+                0,
+                160,
+                130
+            ],
+            "code": 1
+        },
+        {
+            "type": 1,
+            "pos": [
+                138,
+                0
+            ],
+            "id": "keyboard-1",
+            "z_level": "0",
+            "mapping": [
+                170,
+                0,
+                160,
+                130
+            ],
+            "code": 2
+        },
+        {
+            "type": 1,
+            "pos": [
+                276,
+                0
+            ],
+            "id": "keyboard-2",
+            "z_level": "0",
+            "mapping": [
+                340,
+                0,
+                160,
+                130
+            ],
+            "code": 3
+        },
+        {
+            "type": 1,
+            "pos": [
+                414,
+                0
+            ],
+            "id": "keyboard-3",
+            "z_level": "0",
+            "mapping": [
+                510,
+                0,
+                160,
+                130
+            ],
+            "code": 4
+        },
+        {
+            "type": 1,
+            "pos": [
+                552,
+                0
+            ],
+            "id": "keyboard-4",
+            "z_level": "0",
+            "mapping": [
+                680,
+                2,
+                160,
+                130
+            ],
+            "code": 5
+        },
+        {
+            "type": 1,
+            "pos": [
+                138,
+                136
+            ],
+            "id": "keyboard-Q",
+            "z_level": "0",
+            "mapping": [
+                170,
+                266,
+                160,
+                130
+            ],
+            "code": 16
+        },
+        {
+            "type": 1,
+            "pos": [
+                276,
+                136
+            ],
+            "id": "keyboard-W",
+            "z_level": "0",
+            "mapping": [
+                340,
+                266,
+                160,
+                130
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                414,
+                136
+            ],
+            "id": "keyboard-E",
+            "z_level": "0",
+            "mapping": [
+                510,
+                266,
+                160,
+                130
+            ],
+            "code": 18
+        },
+        {
+            "type": 1,
+            "pos": [
+                552,
+                135
+            ],
+            "id": "keyboard-R",
+            "z_level": "0",
+            "mapping": [
+                680,
+                266,
+                160,
+                130
+            ],
+            "code": 19
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                272
+            ],
+            "id": "keyboard button9",
+            "z_level": 0,
+            "mapping": [
+                0,
+                532,
+                160,
+                130
+            ],
+            "code": 42
+        },
+        {
+            "type": 1,
+            "pos": [
+                138,
+                272
+            ],
+            "id": "keyboard-A",
+            "z_level": "0",
+            "mapping": [
+                170,
+                532,
+                160,
+                130
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                276,
+                272
+            ],
+            "id": "keyboard-S",
+            "z_level": "0",
+            "mapping": [
+                340,
+                532,
+                160,
+                130
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                414,
+                271
+            ],
+            "id": "keyboard-D",
+            "z_level": 0,
+            "mapping": [
+                510,
+                532,
+                160,
+                130
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                552,
+                272
+            ],
+            "id": "keyboard-F",
+            "z_level": "0",
+            "mapping": [
+                680,
+                532,
+                160,
+                130
+            ],
+            "code": 33
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                408
+            ],
+            "id": "keyboard-CTRL",
+            "z_level": "0",
+            "mapping": [
+                0,
+                798,
+                160,
+                130
+            ],
+            "code": 29
+        },
+        {
+            "type": 1,
+            "pos": [
+                138,
+                408
+            ],
+            "id": "keyboard-SPACE",
+            "z_level": 0,
+            "mapping": [
+                170,
+                798,
+                298,
+                130
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                414,
+                408
+            ],
+            "id": "keyboard-C",
+            "z_level": "0",
+            "mapping": [
+                510,
+                798,
+                160,
+                130
+            ],
+            "code": 46
+        },
+        {
+            "type": 1,
+            "pos": [
+                552,
+                408
+            ],
+            "id": "keyboard-V",
+            "z_level": "0",
+            "mapping": [
+                680,
+                798,
+                160,
+                130
+            ],
+            "code": 47
+        }
+    ]
+}

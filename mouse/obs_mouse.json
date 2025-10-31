@@ -1,0 +1,73 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 8,
+    "overlay_width": 357,
+    "overlay_height": 662,
+    "elements": [
+        {
+            "type": 3,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "mouse button0",
+            "z_level": 0,
+            "mapping": [
+                0,
+                0,
+                179,
+                353
+            ],
+            "code": 1
+        },
+        {
+            "type": 3,
+            "pos": [
+                178,
+                0
+            ],
+            "id": "mouse button1",
+            "z_level": 0,
+            "mapping": [
+                222,
+                0,
+                179,
+                353
+            ],
+            "code": 2
+        },
+        {
+            "type": 0,
+            "pos": [
+                0,
+                348
+            ],
+            "id": "texture2",
+            "z_level": 0,
+            "mapping": [
+                432,
+                0,
+                356,
+                314
+            ]
+        },
+        {
+            "type": 4,
+            "pos": [
+                157,
+                106
+            ],
+            "id": "mouse wheel3",
+            "z_level": 0,
+            "mapping": [
+                490,
+                356,
+                43,
+                124
+            ]
+        }
+    ]
+}
