@@ -2,8 +2,8 @@
 
 Designed for use with The Evil Within (2014).
 
-OSB Input Overlay Plugin: https://github.com/univrsal/input-overlay 
+OBS Studio Input Overlay Plugin: https://github.com/univrsal/input-overlay 
 
 ## SVG
 
-The inkscape svg can be used to further develop and bespoke the design of each element.
+The Inkscape svg can be used to further develop and bespoke the design of each element.
